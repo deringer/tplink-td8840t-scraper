@@ -1,0 +1,14 @@
+{
+    "name": "iatstuti/tplink-td8840t-scraper",
+    "description": "A small package to scrape ADSL line statistics from the TP-LINK TD-8840T modem router",
+    "require": {
+        "fabpot/goutte": "^3.1",
+        "vlucas/phpdotenv": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Michael Dyrynda",
+            "email": "michael@iatstuti.net"
+        }
+    ]
+}
